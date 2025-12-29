@@ -1,8 +1,8 @@
 '''
-Author: Bappy Ahmed
-Email: entbappy73@gmail.com
-Date: 2021-Nov-15
-Updated by: Malhar Nikam
+Author: Mayank Singh
+Email: singhmayank20005@gmail.com
+Date: 2025
+
 '''
 
 import pickle
@@ -92,3 +92,4 @@ if st.button('Show Recommendation'):
                 
                 rating = recommended_movie_ratings[i]
                 st.caption(f"Rating: {rating:.1f} ⭐")
+
